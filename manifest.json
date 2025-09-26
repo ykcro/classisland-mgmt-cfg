@@ -3,19 +3,19 @@
     "OrganizationName": "课程表集控",
     "ClassPlanSource": {
         "Value": "https://raw.githubusercontent.com/ykcro/classisland-mgmt-cfg/main/{id}/ClassPlans.json",
-        "Version": 3
+        "Version": 4
     },
     "TimeLayoutSource": {
         "Value": "https://raw.githubusercontent.com/ykcro/classisland-mgmt-cfg/main/TimeLayouts.json",
-        "Version": 3
+        "Version": 4
     },
     "SubjectsSource": {
         "Value": "https://raw.githubusercontent.com/ykcro/classisland-mgmt-cfg/main/Subjects.json",
-        "Version": 3
+        "Version": 4
     }
     ,
     "PolicySource": {
         "Value": "https://raw.githubusercontent.com/ykcro/classisland-mgmt-cfg/main/policy.json",
-        "Version": 3
+        "Version": 4
     }
 }
