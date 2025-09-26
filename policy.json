@@ -1,7 +1,7 @@
 {
-    "DisableProfileClassPlanEditing": true,
-    "DisableProfileTimeLayoutEditing": false,
-    "DisableProfileSubjectsEditing": true,
+    "DisableProfileClassPlanEditing": false,
+    "DisableProfileTimeLayoutEditing":true ,
+    "DisableProfileSubjectsEditing": false,
     "DisableProfileEditing": true,
     "DisableSettingsEditing": false,
     "DisableSplashCustomize": true,
