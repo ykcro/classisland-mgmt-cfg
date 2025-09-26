@@ -1,4 +1,13 @@
 {
+    "Name": "",
+        "ClassPlans": {},
+    "Subjects": {},
+    "IsOverlayClassPlanEnabled": false,
+    "OverlayClassPlanId": null,
+    "TempClassPlanId": null,
+    "TempClassPlanSetupTime": "2024-05-03T20:33:04.7829202+08:00",
+    "IsActive": true,
+    "TimeLayouts": {
         "4bad8695-0052-40db-925e-e6286caff403": {
             "Name": "\u65B0\u65F6\u95F4\u8868",
             "Layouts": [
@@ -671,3 +680,4 @@
             "IsActive": false
         }
     }
+}
