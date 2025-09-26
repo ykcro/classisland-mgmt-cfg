@@ -1,0 +1,5 @@
+{
+    "ManagementServerKind": 0,
+    "ManagementServer": "",
+    "ManifestUrlTemplate": "https://raw.githubusercontent.com/ykcro/classisland-mgmt-cfg/master/manifest.json"
+}
