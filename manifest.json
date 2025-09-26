@@ -2,7 +2,7 @@
     "ServerKind": 0,
     "OrganizationName": "课程表集控",
     "ClassPlanSource": {
-        "Value": "https://raw.githubusercontent.com/ykcro/classisland-mgmt-cfg/blob/main//{id}/ClassPlans.json",
+        "Value": "https://raw.githubusercontent.com/ykcro/classisland-mgmt-cfg/blob/main/{id}/ClassPlans.json",
         "Version": 3
     },
     "TimeLayoutSource": {
